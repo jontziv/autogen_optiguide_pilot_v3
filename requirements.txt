@@ -1,0 +1,55 @@
+# Optimization
+pyomo>=6.7,<7.0
+
+# Multi-agent framework
+autogen-core>=0.7.4
+autogen-agentchat>=0.7.4
+autogen-ext[openai]>=0.7.4
+
+# LLM API clients
+groq>=0.4.0,<1.0
+openai>=1.0.0
+
+# Streamlit and UI components
+streamlit>=1.35
+streamlit-chat>=0.1.1
+streamlit-elements>=0.1.0
+streamlit-option-menu>=0.3.6
+
+# Advanced visualizations
+plotly>=5.17.0,<6.0
+plotly-express>=0.4.1
+
+# Real-time features
+watchdog>=3.0.0,<4.0.0
+asyncio-mqtt>=0.13.0
+websockets>=11.0
+
+# Enhanced UI components
+streamlit-aggrid>=0.3.4
+streamlit-lottie>=0.0.5
+streamlit-ace>=0.1.1
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+typing-extensions>=4.8.0
+pydantic>=2.0.0
+
+# Async operations
+aiohttp>=3.8.0
+asyncio>=3.4.3
+
+# Enhanced logging and monitoring
+rich>=13.0.0
+loguru>=0.7.0
+
+# Development and testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+isort>=5.0.0
+
+# Additional UI enhancements
+streamlit-drawable-canvas>=0.9.0
+streamlit-folium>=0.13.0
